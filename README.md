@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📝 I regularly write articles on [https://medium.com/@sagnikmanna2703](https://medium.com/@sagnikmanna2703)
 
-- 💬 Ask me about **JAVA, C, Python**
+- 💬 Ask me about **JAVA, C, Python, JavaScript**
 
 - 📫 How to reach me **sagnikmanna537@gmail.com**
 
